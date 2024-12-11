@@ -12,13 +12,13 @@
   <br>
 
   <p>
-    <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/7Sageer/sublink-worker">
+    <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/vnetgo/sublink-worker">
       <img src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare Workers"/>
     </a>
   </p>
 </div>
 
-## 🚀 快速开始
+##  快速开始
 
 ### 一键部署
 点击上方的 "Deploy to Workers" 按钮，即可快速部署您的专属订阅转换服务。
@@ -28,9 +28,9 @@
 - [视频教程2](https://www.youtube.com/watch?v=_1BfM2Chn7w)
 - [视频教程3](https://www.youtube.com/watch?v=7abmWqCXPR8)
 
-> 💡 这些是由Youtube社区成员制作的教程视频，详细的讲解可以让你快速上手。但是部分内容可能与我们的见解不同，也可能与最新版本存在差异，建议同时参考[官方文档](/docs)
+>  这些是由Youtube社区成员制作的教程视频，详细的讲解可以让你快速上手。但是部分内容可能与我们的见解不同，也可能与最新版本存在差异，建议同时参考[官方文档](/docs)
 
-## ✨ 功能特点
+##  功能特点
 
 ### 支持协议
 - ShadowSocks
@@ -57,7 +57,7 @@
 - 提供多种预定义规则集
 - 可自建关于 geo-site、geo-ip、ip-cidr 和 domain-suffix 的自定义策略组
 
-## 📖 API 文档
+##  API 文档
 
 详细的 API 文档请参考 [API-doc.md](/docs/API-doc.md)
 
@@ -67,13 +67,13 @@
 - `/xray` - 生成 Xray 配置
 - `/shorten` - 生成短链接
 
-## 📝 最近更新
+##  最近更新
 
 ### 2024-12-07
 - 确保在手动选择规则时，预定义规则集的选择框也会自动更新为 "custom"
 [查看完整更新日志](/docs/update-log.md)
 
-## 🔧 项目结构
+##  项目结构
 
 ```
 .
